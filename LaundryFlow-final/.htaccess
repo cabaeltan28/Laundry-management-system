@@ -1,0 +1,3 @@
+# Disable folder listing
+Options -Indexes
+DirectoryIndex index.php
